@@ -23,6 +23,12 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 - Tried 'Capacity to Ship Packages Within D Days' question but didnt get the approach , so left it for now.
 - Studied 'Intro to Singly Linked list'
 
+## 14/5/2026 (DAY-3)
+
+- Went on  a trip with family on 13th May and returned on the evening of 14th May , that is why I didn't study anything on 13th May.
+- Studied reference variable, stack memory, heap memory from babbar's video.
+- Studied insertion and deletion on singley linked list.
+
 
 
 

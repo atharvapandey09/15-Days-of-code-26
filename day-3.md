@@ -1,0 +1,2 @@
+- Memory  allocation 
+    - [LINK](https://www.notion.so/MEMORY-ALLOCATION-360181c851618052b721caf1892666ba?source=copy_link)
