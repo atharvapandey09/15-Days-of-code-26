@@ -29,6 +29,14 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 - Studied reference variable, stack memory, heap memory from babbar's video.
 - Studied insertion and deletion on singley linked list.
 
+## 15/5/2026 (DAY-4)
+
+- Finished with deletion in singely LL.
+-  Solved two leetcode problems
+    - [REVERSE A LL](https://leetcode.com/problems/reverse-linked-list/description/)
+    - [MIDDLE OF THE LL](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+        - Studied tortoise and bare algo..
+
 
 
 
