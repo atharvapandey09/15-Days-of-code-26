@@ -37,6 +37,12 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - [MIDDLE OF THE LL](https://leetcode.com/problems/middle-of-the-linked-list/description/)
         - Studied tortoise and bare algo..
 
+## 16/05/2026 (DAY-5)
+
+- Finished Doubly LL(concept, syntax,insertion,deletion) from Babbar's video;
+- Solved two codeforces problems
+    - [165B](https://codeforces.com/contest/165/problem/B)
+    - [706B](https://codeforces.com/contest/706/problem/B)
 
 
 
