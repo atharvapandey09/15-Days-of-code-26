@@ -45,4 +45,12 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - [706B](https://codeforces.com/contest/706/problem/B)
 
 
+## 18/05/2026 (DAY-6) 
+
+- Didn't do anything on 17/05 as i attended  a family function..
+- Tried 2 leetcode problems
+    - [Capacity to ship packages within D days ](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/2006340926/)
+    - [Add two numbers](https://leetcode.com/problems/add-two-numbers/submissions/2006500427/)  (got Runtime error , will try this again tommorow)
+- Solved 2 questions on singley LL from striver's sheet.
+    
 
