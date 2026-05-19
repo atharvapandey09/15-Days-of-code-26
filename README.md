@@ -53,4 +53,10 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - [Add two numbers](https://leetcode.com/problems/add-two-numbers/submissions/2006500427/)  (got Runtime error , will try this again tommorow)
 - Solved 2 questions on singley LL from striver's sheet.
     
+## 19/05/2026 (DAY-7)
 
+- Solved 1 leetcode problem
+    - [kth missing postive number](https://leetcode.com/submissions/detail/2007652355/)
+    - Tried binary search approach on it but got stuck midway, will try this question again later....
+- Revised recursion from babbar's DSA playlist
+    - Lecture 31,32,33
