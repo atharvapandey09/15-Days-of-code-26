@@ -60,3 +60,10 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - Tried binary search approach on it but got stuck midway, will try this question again later....
 - Revised recursion from babbar's DSA playlist
     - Lecture 31,32,33
+
+## 20/05/2026 (DAY-8){
+- Solved 3 leetcode problems
+    - [Delete the middle node of a LL](https://leetcode.com/submissions/detail/2008491280/)
+    - [Palindrome LL](https://leetcode.com/submissions/detail/2008496370/)
+    - [Reverse a LL(another approach)](https://leetcode.com/problems/reverse-linked-list/submissions/2008520447/)
+}
