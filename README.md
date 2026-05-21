@@ -67,3 +67,11 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - [Palindrome LL](https://leetcode.com/submissions/detail/2008496370/)
     - [Reverse a LL(another approach)](https://leetcode.com/problems/reverse-linked-list/submissions/2008520447/)
 }
+
+## 21/05/2026 (DAY-9)
+
+- Solved 3 leetcode problems
+    - [REVERSE A LL(RECURSIVE APPROACH)](https://leetcode.com/problems/reverse-linked-list/submissions/2009021536/)
+    - [LL Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/2009383642/)
+    - [LL Cycle II](https://leetcode.com/submissions/detail/2009401669/)
+- Studied Circular and Doubly circular LL from babbar's video.
