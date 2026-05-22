@@ -75,3 +75,10 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - [LL Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/2009383642/)
     - [LL Cycle II](https://leetcode.com/submissions/detail/2009401669/)
 - Studied Circular and Doubly circular LL from babbar's video.
+
+## 22/05/2026 (DAY-10)
+
+- Went to a birthday celebration, hence didn't study much..
+- Solved 2 leetcode problems
+    - [Remove Nth node from end of LL(brute + optimal)](https://leetcode.com/submissions/detail/2009833852/)
+    - [Palindrome LL(optimal  solution)](https://leetcode.com/submissions/detail/2009926209/)
