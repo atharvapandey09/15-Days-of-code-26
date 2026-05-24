@@ -82,3 +82,12 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 - Solved 2 leetcode problems
     - [Remove Nth node from end of LL(brute + optimal)](https://leetcode.com/submissions/detail/2009833852/)
     - [Palindrome LL(optimal  solution)](https://leetcode.com/submissions/detail/2009926209/)
+
+## 24/05/2026 (DAY-11)
+
+- Solved 3 leetcode problems
+    - [Odd Even LL(brute+optimal)](https://leetcode.com/problems/odd-even-linked-list/submissions/2011497228/)
+    - [Sort LL(brute soln)](https://leetcode.com/problems/sort-list/submissions/2011510629/)
+    - [Intersection of two LL(brute soln)](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/2012027847/)
+- Solved 1 problem from Striver's sheet
+- Started with Python basics.
