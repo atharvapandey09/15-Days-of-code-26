@@ -91,3 +91,11 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - [Intersection of two LL(brute soln)](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/2012027847/)
 - Solved 1 problem from Striver's sheet
 - Started with Python basics.
+
+## 25/05/2026 (DAY-12)
+
+- Solved 2 leetcode problems
+    - [LL Cycle II(optimal soln)](https://leetcode.com/submissions/detail/2013001099/)
+    - [kth missing postive number(optimal soln)](https://leetcode.com/submissions/detail/2013031313/)
+- Solved 1 problem from Striver's sheet
+    - [kth element of two sorted arrays(brute+better soln)](https://takeuforward.org/data-structure/k-th-element-of-two-sorted-arrays)
