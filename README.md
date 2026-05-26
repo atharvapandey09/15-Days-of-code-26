@@ -99,3 +99,15 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - [kth missing postive number(optimal soln)](https://leetcode.com/submissions/detail/2013031313/)
 - Solved 1 problem from Striver's sheet
     - [kth element of two sorted arrays(brute+better soln)](https://takeuforward.org/data-structure/k-th-element-of-two-sorted-arrays)
+
+## 26/05/2026 (DAY-13)
+
+- Revised string from babbar's video
+- Solved 6 leetcode  problems based on string
+    - [Reverse String](https://leetcode.com/submissions/detail/2013958369/)
+    - [Valid Palindrome](https://leetcode.com/submissions/detail/2013966396/)
+    - [Reverse Words in a String III](https://leetcode.com/submissions/detail/2013978285/)
+    - [To Lower Case](https://leetcode.com/submissions/detail/2013985490/)
+    - [Valid Anagram](https://leetcode.com/submissions/detail/2013991212/)
+    - [First Unique character in a string](https://leetcode.com/submissions/detail/2013993984/)
+    
