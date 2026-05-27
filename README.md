@@ -110,4 +110,9 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - [To Lower Case](https://leetcode.com/submissions/detail/2013985490/)
     - [Valid Anagram](https://leetcode.com/submissions/detail/2013991212/)
     - [First Unique character in a string](https://leetcode.com/submissions/detail/2013993984/)
-    
+
+## 27/05/2026 (DAY-14)
+- Studied Python(string operations, conditions,loops, functions)
+    - Solved some basic questions to get familiar with syntax.
+- Solved 1 leetcode problem
+    - [Ransom Note](https://leetcode.com/submissions/detail/2014920565/)
