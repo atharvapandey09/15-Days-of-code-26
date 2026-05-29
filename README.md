@@ -123,4 +123,5 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 - Solved 2 leetcode problem
     - [Sort characters by frequency](https://leetcode.com/submissions/detail/2016571655/)(revised multimap and its operations through this question)
     - [Valid palindrome II](https://leetcode.com/submissions/detail/2016669505/)
+    - [Merge Strings Alternately](https://leetcode.com/submissions/detail/2016679274/)
 - Studied about list,dictionary,tuple in python and solved basic questions to get familiar with its operations and syntax.
