@@ -91,7 +91,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - [Intersection of two LL(brute soln)](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/2012027847/)
 - Solved 1 problem from Striver's sheet
 - Started with Python basics.
-
+         
 ## 25/05/2026 (DAY-12)
 
 - Solved 2 leetcode problems
@@ -116,3 +116,11 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - Solved some basic questions to get familiar with syntax.
 - Solved 1 leetcode problem
     - [Ransom Note](https://leetcode.com/submissions/detail/2014920565/)
+
+## 29/05/2026 (DAY-15)
+
+- I was travelling from Pune to my hometown , that's why didn't solve anything on 28th May.
+- Solved 2 leetcode problem
+    - [Sort characters by frequency](https://leetcode.com/submissions/detail/2016571655/)(revised multimap and its operations through this question)
+    - [Valid palindrome II](https://leetcode.com/submissions/detail/2016669505/)
+- Studied about list,dictionary,tuple in python and solved basic questions to get familiar with its operations and syntax.
