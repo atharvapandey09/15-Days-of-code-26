@@ -125,3 +125,14 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - [Valid palindrome II](https://leetcode.com/submissions/detail/2016669505/)
     - [Merge Strings Alternately](https://leetcode.com/submissions/detail/2016679274/)
 - Studied about list,dictionary,tuple in python and solved basic questions to get familiar with its operations and syntax.
+
+
+# SECOND PHASE OF 15 DAYS OF CODE
+
+## 15/6/2025 (DAY-1)
+
+- Solved two problems from CP31 sheet
+    - [Unit Array](https://codeforces.com/contest/1834/problem/A)
+    - [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A)
+- Attended today's Codechef Monday Munch DSA Contest.Solved 3 questions in total
+- Tried [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) but couldn't come up with solution using stack.
