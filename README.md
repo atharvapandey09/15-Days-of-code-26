@@ -129,10 +129,25 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 # SECOND PHASE OF 15 DAYS OF CODE
 
-## 15/6/2025 (DAY-1)
+## 15/6/2026 (DAY-1)
 
 - Solved two problems from CP31 sheet
     - [Unit Array](https://codeforces.com/contest/1834/problem/A)
     - [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A)
 - Attended today's Codechef Monday Munch DSA Contest.Solved 3 questions in total
 - Tried [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) but couldn't come up with solution using stack.
+
+## 16/6/2026(DAY-2)
+
+- Solved total of 6 problems on leetcode and codeforces today.
+
+####  3 from LEETCODE
+- [Next Greater Element I](https://leetcode.com/submissions/detail/2035012633/)
+- [Next Greater Element II](https://leetcode.com/submissions/detail/2035378709/)
+- [Daily Temperatures](https://leetcode.com/submissions/detail/2035441930/)
+
+#### 3 from CP31
+- [Twin Permutations](https://codeforces.com/submissions/arthp)
+- [Blank Space](https://codeforces.com/submissions/arthp)
+- [Coins](https://codeforces.com/submissions/arthp)
+
