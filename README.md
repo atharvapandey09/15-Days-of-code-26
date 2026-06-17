@@ -151,3 +151,12 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 - [Blank Space](https://codeforces.com/submissions/arthp)
 - [Coins](https://codeforces.com/submissions/arthp)
 
+
+## 17/6/2026 [DAY-3](./2_DAY-3/)
+
+- Solved 3 questions.
+ - [Add Two Numbers](https://leetcode.com/submissions/detail/2036750099/)
+ - [Add 1 to a number represented by LL](https://takeuforward.org/data-structure/add-1-to-a-number-represented-by-ll)
+ - [Next Smaller Element](https://takeuforward.org/data-structure/next-smaller-element)
+
+- Attended today's Codechef starters contest. Solved 3 questions in total. [Profile](https://www.codechef.com/users/arthp_09)
