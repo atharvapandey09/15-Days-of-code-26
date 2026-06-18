@@ -160,3 +160,14 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
  - [Next Smaller Element](https://takeuforward.org/data-structure/next-smaller-element)
 
 - Attended today's Codechef starters contest. Solved 3 questions in total. [Profile](https://www.codechef.com/users/arthp_09)
+
+## 18/6/2026 [DAY-4](./2_DAY-4/)
+
+- Solved 3 questions today
+
+## 2 from LEETCODE
+- [Sort Colors](https://leetcode.com/submissions/detail/2037811924/)(Took some help from striver solution also learned Dutch National Flag algo)
+- [Isomorphic Strings](https://leetcode.com/submissions/detail/2037963098/)
+
+## 1 from CP31
+- [Walking Master (1806A) ](https://codeforces.com/submissions/arthp)
