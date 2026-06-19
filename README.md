@@ -165,9 +165,24 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 - Solved 3 questions today
 
-## 2 from LEETCODE
+#### 2 from LEETCODE
 - [Sort Colors](https://leetcode.com/submissions/detail/2037811924/)(Took some help from striver solution also learned Dutch National Flag algo)
 - [Isomorphic Strings](https://leetcode.com/submissions/detail/2037963098/)
 
-## 1 from CP31
+#### 1 from CP31
 - [Walking Master (1806A) ](https://codeforces.com/submissions/arthp)
+
+## 19/6/2026 [DAY-5](./2_DAY-5/)
+
+- Solved 5 questions today
+
+#### 2 From leetcode
+- [Reverse Words in a String](https://leetcode.com/submissions/detail/2038600569/)
+- [Find highest altitude](https://leetcode.com/submissions/detail/2038655882/) (Daily problem)
+
+#### 1 From striver sheet
+- [Sort LL of 0,1,2](https://takeuforward.org/data-structure/sort-a-linked-list-of-0s-1s-and-2s-by-changing-links)
+
+#### 2 from CP31
+- [One and Two](https://codeforces.com/contest/1788/problem/A)
+- [Make it Beautiful](https://codeforces.com/contest/1783/problem/A)
