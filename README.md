@@ -186,3 +186,12 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 #### 2 from CP31
 - [One and Two](https://codeforces.com/contest/1788/problem/A)
 - [Make it Beautiful](https://codeforces.com/contest/1783/problem/A)
+
+## 20/6/2026 [DAY-6](./2_DAY-6/)
+
+- Solved 3 Leetcode questions today
+    - [Remove Outermost Parentheses](https://leetcode.com/submissions/detail/2040147501/)
+    - [Two sum II](https://leetcode.com/submissions/detail/2040214631/)
+    - [Container with most water](https://leetcode.com/submissions/detail/2040231153/)
+
+- Studied functions in python and solved some questions.
