@@ -195,3 +195,4 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - [Container with most water](https://leetcode.com/submissions/detail/2040231153/)
 
 - Studied functions in python and solved some questions.
+- Attended Leetcode biweekly . Solved only 1 question.
