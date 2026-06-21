@@ -196,3 +196,13 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 - Studied functions in python and solved some questions.
 - Attended Leetcode biweekly . Solved only 1 question.
+
+## 21/06/2026 [DAY-7](./2_DAY-7/)
+
+- Solved 3 LEETCODE questions
+ - [MAX icecream bars](https://leetcode.com/submissions/detail/2040763138/) (Daily Problem)
+ - [Roman to Integer](https://leetcode.com/submissions/detail/2041189348/)
+ - [String to Integer](https://leetcode.com/submissions/detail/2041369853/) (Took a bit help in this cuz my solution was missing most of hidden test cases)
+
+- Tried [Global&Local inversion](https://leetcode.com/problems/global-and-local-inversions/description/) but got TLE , I could not think the optimal approach , will try this again tommorow.
+- Studied list comprehension, file handling, exception handling, modules & packages in python.
