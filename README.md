@@ -206,3 +206,10 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 - Tried [Global&Local inversion](https://leetcode.com/problems/global-and-local-inversions/description/) but got TLE , I could not think the optimal approach , will try this again tommorow.
 - Studied list comprehension, file handling, exception handling, modules & packages in python.
+
+## 22/06/2026 [DAY-8](./2_DAY-8/)
+
+- Solved 3 LEETCODE questions.
+    - [Max number of balloons](https://leetcode.com/submissions/detail/2042183132/) (POTD)
+    - [Min lights to illuminate road](https://leetcode.com/submissions/detail/2042496985/) (studied difference array through this)
+    - [Pascal's triangle](https://leetcode.com/submissions/detail/2042592860/)
