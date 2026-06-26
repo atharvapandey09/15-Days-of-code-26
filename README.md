@@ -213,3 +213,11 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - [Max number of balloons](https://leetcode.com/submissions/detail/2042183132/) (POTD)
     - [Min lights to illuminate road](https://leetcode.com/submissions/detail/2042496985/) (studied difference array through this)
     - [Pascal's triangle](https://leetcode.com/submissions/detail/2042592860/)
+
+## 26/06/2026 DAY-9
+- I had fever for past three days...
+- Solved 3 Leetcode problems today
+    - [Asteroid Collision](https://leetcode.com/submissions/detail/2046844974/)
+    - [Sort List(Optimal approach)](https://leetcode.com/submissions/detail/2047071394/)
+    - [Merge two sorted lists](https://leetcode.com/submissions/detail/2047083476/)
+- Studied OOPS, generators,decorators in python
