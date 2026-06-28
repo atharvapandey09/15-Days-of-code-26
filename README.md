@@ -221,3 +221,10 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - [Sort List(Optimal approach)](https://leetcode.com/submissions/detail/2047071394/)
     - [Merge two sorted lists](https://leetcode.com/submissions/detail/2047083476/)
 - Studied OOPS, generators,decorators in python
+
+## 27/06/2026 [DAY-10](./2_DAY-10/)
+
+- Solved 3 Leetcode problems
+    - [Majority Element II](https://leetcode.com/submissions/detail/2047598266/)
+    - [Contains Duplicate](https://leetcode.com/submissions/detail/2048031880/)
+    - [Corporate flight bookings](https://leetcode.com/submissions/detail/2048016995/)
