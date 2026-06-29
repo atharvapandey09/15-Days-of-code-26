@@ -235,3 +235,10 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - [LC POTD](https://leetcode.com/submissions/detail/2049266273/)
     - [Final prices with special discount](https://leetcode.com/submissions/detail/2049327023/)
     - [Another puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A)
+
+## 29/06/2026 [DAY-12](./2_DAY-12/)
+
+- Solved 3 LEETCODE Problems
+    - [POTD](https://leetcode.com/submissions/detail/2050223594/)
+    - [Number of visible people in a queue](https://leetcode.com/submissions/detail/2050424504/)
+    - [Sum of subarray minimums](https://leetcode.com/submissions/detail/2050488270/) 
