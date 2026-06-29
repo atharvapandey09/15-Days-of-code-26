@@ -228,3 +228,10 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - [Majority Element II](https://leetcode.com/submissions/detail/2047598266/)
     - [Contains Duplicate](https://leetcode.com/submissions/detail/2048031880/)
     - [Corporate flight bookings](https://leetcode.com/submissions/detail/2048016995/)
+
+## 28/06/2026 [DAY-11](./2_DAY-11/)
+
+- Solved 3 Problems
+    - [LC POTD](https://leetcode.com/submissions/detail/2049266273/)
+    - [Final prices with special discount](https://leetcode.com/submissions/detail/2049327023/)
+    - [Another puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A)
