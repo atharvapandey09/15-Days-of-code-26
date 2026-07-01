@@ -242,3 +242,16 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
     - [POTD](https://leetcode.com/submissions/detail/2050223594/)
     - [Number of visible people in a queue](https://leetcode.com/submissions/detail/2050424504/)
     - [Sum of subarray minimums](https://leetcode.com/submissions/detail/2050488270/) 
+
+## 30/06/2026 [DAY-13](./2_DAY-13/)
+
+- Solved 2 problems
+ - [Divide and Conquer](https://codeforces.com/contest/2241/problem/A)
+ - [Sum of Subarray Ranges](https://leetcode.com/submissions/detail/2051580780/)
+- Studied json , os module in python
+
+## 1/07/2026 [DAY-14](./2_DAY-14/)
+
+- Gave today's contest in Codechef. Solved 4 questions [Profile Link](https://www.codechef.com/users/arthp_09)
+- Built a small project in python 
+    - Expense Tracker CLI [REPO LINK](https://github.com/atharvapandey09/Expense-Tracker)
